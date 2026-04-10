@@ -1,0 +1,2 @@
+﻿target_date,train_start_date,train_end_date,fit_end_date,calib_date,num_areas,raw_interval_seconds,model_interval_seconds,seq_len,people_MAE_pred,people_RMSE_pred,people_MAE_baseline,people_RMSE_baseline,wait_MAE_pred,wait_RMSE_pred,wait_MAE_baseline,wait_RMSE_baseline
+2025-09-14,2025-09-01,2025-09-13,2025-09-12,2025-09-13,17,10,60,180,7.086397058823529,11.455339180994773,7.760661764705882,13.068179996899818,0.6839358660130719,1.7865060939422541,0.7299203431372547,1.9492965580122565
